@@ -1,4 +1,4 @@
-// Exercise 05: Tiny Tween Chain
+// Code Practice: Tiny Tween Chain
 // Name:
 // Date:
 
@@ -17,5 +17,4 @@ let config = {
 
 const game = new Phaser.Game(config)
 
-// global
 let cursors = null
